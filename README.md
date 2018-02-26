@@ -5,12 +5,6 @@
 ![](/images/readme//chichi.jpg)
 
 
-![](/images/readme//song.jpg)
-
-
-![](/images/readme//study.jpg)
-
-
 #### 感谢   
 
 本博客使用[leopardpan](https://github.com/leopardpan)的模板。  
