@@ -18,9 +18,6 @@ title:
 <p>
 <p>csdn博客：<a href="http://blog.csdn.net/richar1" target="_blank"> http://blog.csdn.net/richar1 </a></p>
 <p></p>
-<p> 
-
-<p> 
 
 
 <!-- {% include comments.html %} -->
