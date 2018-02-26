@@ -2,13 +2,13 @@
 记录工作和学习中遇到的问题，及其解决方式
 
 
-![](/images/readme//img3.png)
+![](/images/readme//chichi.jpg)
 
 
-![](/images/readme//img2.png)
+![](/images/readme//song.jpg)
 
 
-![](/images/readme//img1.png)
+![](/images/readme//study.jpg)
 
 
 #### 感谢   
