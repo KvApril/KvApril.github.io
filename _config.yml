@@ -5,7 +5,7 @@ description: 一只放荡不羁爱自由的呱太~
 # 头像里面的标题
 avatarTitle: KvApril
 # 头像里面的描述
-avatarDesc: Ruby / Python
+avatarDesc: Ruby / Rails
 url: "https://kvapril.github.io/"
 
 # Comment
@@ -57,7 +57,7 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}
+    # - {title: 所有文章, description: archive, url: '/archive'}
     - {title: 标签, description: tags, url: '/tags'}
     - {title: 关于我, description: about, url: '/aboutme'}
 
